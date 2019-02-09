@@ -3,6 +3,7 @@
 #include <stdio.h>
 #define BLOCK_SIZE 1024
 // Commit Fasolo
+// Commit Cecchetto
 #pragma warning ( disable: 4996 )
 struct SHARED
 {
