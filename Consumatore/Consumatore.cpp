@@ -4,6 +4,7 @@
 #define BLOCK_SIZE 1024
 // Commit Fasolo
 // Commit Cecchetto
+// Commit Chiarello
 #pragma warning ( disable: 4996 )
 struct SHARED
 {
