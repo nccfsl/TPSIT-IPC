@@ -4,6 +4,7 @@
 
 #define BLOCK_SIZE 1024
 // Commit Fabris
+//Commit Chiarello
 #pragma warning ( disable : 4996 )
 #pragma warning ( suppress: 4267 )
 
